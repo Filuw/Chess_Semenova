@@ -1,0 +1,11 @@
+C:\Users\Дарья\source\repos\Chess_Semenova\Chess_Semenova\bin\Debug\Chess_Semenova.exe.config
+C:\Users\Дарья\source\repos\Chess_Semenova\Chess_Semenova\bin\Debug\Chess_Semenova.exe
+C:\Users\Дарья\source\repos\Chess_Semenova\Chess_Semenova\bin\Debug\Chess_Semenova.pdb
+C:\Users\Дарья\source\repos\Chess_Semenova\Chess_Semenova\obj\Debug\Chess_Semenova.csproj.AssemblyReference.cache
+C:\Users\Дарья\source\repos\Chess_Semenova\Chess_Semenova\obj\Debug\Chess_Semenova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дарья\source\repos\Chess_Semenova\Chess_Semenova\obj\Debug\Chess_Semenova.Form1.resources
+C:\Users\Дарья\source\repos\Chess_Semenova\Chess_Semenova\obj\Debug\Chess_Semenova.Properties.Resources.resources
+C:\Users\Дарья\source\repos\Chess_Semenova\Chess_Semenova\obj\Debug\Chess_Semenova.csproj.GenerateResource.cache
+C:\Users\Дарья\source\repos\Chess_Semenova\Chess_Semenova\obj\Debug\Chess_Semenova.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\Chess_Semenova\Chess_Semenova\obj\Debug\Chess_Semenova.exe
+C:\Users\Дарья\source\repos\Chess_Semenova\Chess_Semenova\obj\Debug\Chess_Semenova.pdb
